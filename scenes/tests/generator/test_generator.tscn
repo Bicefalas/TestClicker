@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://bwipyeotaycuy"]
 
-[ext_resource type="Script" path="res://TestGenerator.gd" id="1_7ickd"]
+[ext_resource type="Script" path="res://scenes/tests/generator/TestGenerator.gd" id="1_7ickd"]
 
 [node name="TestGenerator" type="Control" node_paths=PackedStringArray("label", "button", "timer")]
 layout_mode = 3
